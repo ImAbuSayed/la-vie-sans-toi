@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La Vie Sans Toi
+
+This log tracks the cryptographic history and versioning for the song **La Vie Sans Toi** (la-vie-sans-toi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T01:57:00.267796 | `v1` | `e81fa7de065a2c280f50f1a31e53265e372a8661dec053320b9db5daae319e2e` | `2404f53d1c817b61c922b49e0a76972fa90e36960f85f6b9aaa96867de31eb9e` | `2026-06-26_la-vie-sans-toi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

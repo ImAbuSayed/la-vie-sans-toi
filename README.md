@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-vie-sans-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for La Vie Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-vie-sans-toi/) |
+| **Get License** | [Secure Licensing Rights for La Vie Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-vie-sans-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e81fa7de065a2c280f50f1a31e53265e372a8661dec053320b9db5daae319e2e` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
