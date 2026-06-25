@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-vie-sans-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for La Vie Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-vie-sans-toi/) |
+| **Get License** | [Get a Licensing Quote for La Vie Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-vie-sans-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 1861aa286a3fa7f38420cae24b465ece94dc9578
+> J'te vois dans la nuit, baby, tu brilles dans l'noir
+> Mon cœur s'accélère, tu captes tous les regards
+> Viens près de moi, I need you dans mes bras
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
